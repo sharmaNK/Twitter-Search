@@ -1,9 +1,9 @@
-from secrets import consumer_key, consumer_secret
+from secrets import CONSUMER_KEY, CONSUMER_SECRET
 from twitter_client import TwitterClient
 import click
 
 
-client = TwitterClient(consumer_key, consumer_secret)
+client = TwitterClient(CONSUMER_KEY, CONSUMER_SECRET)
 MIN_RETWEET = 1
 
 

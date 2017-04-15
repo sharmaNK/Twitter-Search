@@ -1,2 +1,2 @@
-consumer_key = 'ZeAIoUhigzbRuj8fXYignvln3'
-consumer_secret = 'gNhJ724FVYlLUabTP0HZCfdm0DYhK2NwxxestDIDoBLSuutXE1'
+CONSUMER_KEY = 'ZeAIoUhigzbRuj8fXYignvln3'
+CONSUMER_SECRET = 'gNhJ724FVYlLUabTP0HZCfdm0DYhK2NwxxestDIDoBLSuutXE1'

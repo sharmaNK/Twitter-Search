@@ -19,8 +19,11 @@ I personally prefer using [virtualenv][1] , this step is **optional**
 
 This will ask you to enter **search keyword**
 
+![Input](static/input.png)
 write a word or any hashtag like #customer
 
 This will display all tweets on the command line itself.
+
+![Results](static/response.png)
 
 [1]: https://pypi.python.org/pypi/virtualenv
