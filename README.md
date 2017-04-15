@@ -12,7 +12,7 @@ I personally prefer using [virtualenv][1] , this step is **optional**
 	$ pip install -r requirements.txt
 
 ## Edit
-  open file secret.py and change value of consumer_key, consumer_secret
+  open file secret.py and change value of **consumer_key, consumer_secret**
 
 ## Usage
 	$ python setup.py
