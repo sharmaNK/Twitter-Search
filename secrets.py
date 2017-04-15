@@ -1,2 +1,5 @@
-CONSUMER_KEY = 'ZeAIoUhigzbRuj8fXYignvln3'
-CONSUMER_SECRET = 'gNhJ724FVYlLUabTP0HZCfdm0DYhK2NwxxestDIDoBLSuutXE1'
+"""
+    File where all the secret keys should be kept
+"""
+CONSUMER_KEY = 'consumer_key'
+CONSUMER_SECRET = 'consumer_secrets'

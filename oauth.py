@@ -48,4 +48,8 @@ class Oauth:
         return response.json().get('access_token')
 
     def _get_auth_header(self):
+        """
+            Returns:
+                headers dict with authorization header evaluated
+        """
         return {'Authorization': self.auth_type + ' ' + self.auth_token}
